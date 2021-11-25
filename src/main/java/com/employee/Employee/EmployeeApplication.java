@@ -15,7 +15,7 @@ public class EmployeeApplication {
 	
 	@RequestMapping("/test")
 	public String getMesssage() {
-		
+		//TEst
 		return "Welcome to Spring Boot";
 	}
 
